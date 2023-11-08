@@ -11,7 +11,7 @@ buttonOne.addEventListener('click', function() {
     // - The image address should be a picture of a place you want to travel to.
     // - Use Google Search, find a photo you want, right-click, and copy the image address.
 
-
+placeholder.src = "https://hbr.org/resources/images/article_assets/2020/09/A_Sep20_14_1189155141.jpg";
 
 
 });
@@ -24,7 +24,7 @@ buttonTwo.addEventListener('click', function() {
     // - The image address should be a picture that represents your mood.
     // - Use Google Search, find a photo you want, right-click, and copy the image address.
 
-
+placeholder.src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/278px-London_Skyline_%28125508655%29.jpeg";
 
     
 
